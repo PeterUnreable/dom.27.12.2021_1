@@ -1,0 +1,69 @@
+1/
+
+Создание нового репозитория на сайте github.com:
+Сверху справа нажимаю (+), New Repository
+Repository name: repo_github_25.12.21_1
+
+Public оставляю
+
+Create Repository
+
+
+На данный момент нет файлов в данном репозитории на github.com, как и в локальном репозитории, созданном в git bush с помощью комманды git init.
+
+
+dom.27.12.2021_1
+
+
+app.gitkraken.com
+
+закачиваю gitkraken ---
+use gitjraken with github
+
+
+
+2/
+
+Захожу на github.com
+
+создаю там реопзиторий, копирую ссылку.
+
+3. Создаю папку для репозитрия на локальном компе:
+
+C:\Users\Peter\Documents\Repo_from_Kraken\repo_gui2
+
+
+4. Создаю репозиторий в GitKraken:
+Fail --- Open Repo --- Init и прочие действия.
+
+
+
+5. Переношу в папку 
+C:\Users\Peter\Documents\Repo_from_Kraken\repo_gui2 любой файл.
+в GitKraken появляется 
+в master новый пункт.
+
+
+5.1. 
+stage all changes  справа
+
+(этап всех изменений)
+
+stage   - этап, ступень, стадия.
+
+5.2.
+commit message
+
+5.3.
+commit
+
+5.4.
+push - это отправка на сервер.
+
+
+
+
+
+
+
+
